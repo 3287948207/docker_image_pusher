@@ -5,3 +5,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 fs185085781/webos
 nginx:alpine-slim
+qinglong:latest
