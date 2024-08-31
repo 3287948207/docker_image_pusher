@@ -6,3 +6,4 @@ xhofe/alist:latest
 fs185085781/webos
 nginx:alpine-slim
 dockerproxy.com/whyour/qinglong:latest
+mysql:9.0.1
