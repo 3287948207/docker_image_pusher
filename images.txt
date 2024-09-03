@@ -7,4 +7,4 @@ fs185085781/webos
 nginx:alpine-slim
 dockerproxy.com/whyour/qinglong:latest
 --platform=linux/arm64 mysql
---platform=linux/arm64 redis
+--platform=linux/arm64 redis:7.4.0
