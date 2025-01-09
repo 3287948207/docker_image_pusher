@@ -8,4 +8,4 @@ nginx:alpine-slim
 --platform=linux/arm64 whyour/qinglong:2.15.0
 --platform=linux/arm64 mysql
 --platform=linux/arm64 redis:7.4.0
-aeert/kodbox:latest
+--platform=linux/arm64 jrottenberg/ffmpeg
